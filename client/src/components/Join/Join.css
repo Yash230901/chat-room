@@ -1,0 +1,154 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+.joinPage{
+    background: linear-gradient(45deg,blueviolet,lightgreen);
+=======
+.joinPage {
+    background: linear-gradient(45deg, blueviolet, lightgreen);
+>>>>>>> master
+=======
+.joinPage {
+    background: linear-gradient(45deg, blueviolet, lightgreen);
+>>>>>>> master
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+<<<<<<< HEAD
+<<<<<<< HEAD
+}   
+.joinContainer
+{
+=======
+}
+
+.joinContainer {
+>>>>>>> master
+=======
+}
+
+.joinContainer {
+>>>>>>> master
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    padding: 2rem;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.joinContainer h1{
+    color:#fff;
+    font-size:4rem;
+    border-bottom: 0.1rem solid white;
+}
+#joinInput{
+=======
+=======
+>>>>>>> master
+
+.joinContainer h1 {
+    color: #fff;
+    font-size: 4rem;
+    border-bottom: 0.1rem solid white;
+}
+
+#joinInput {
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> master
+    width: 22vmax;
+    padding: 1.5vmax;
+    border: none;
+    font-size: 1.2vmax;
+    outline: none;
+    margin: 15px 0;
+<<<<<<< HEAD
+<<<<<<< HEAD
+}
+.LoginBtn{
+=======
+=======
+>>>>>>> master
+    border-radius: 50px;
+}
+
+.LoginBtn {
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> master
+    cursor: pointer;
+    width: 25vmax;
+    padding: 1.5vmax;
+    border: none;
+    font-size: 1.2vmax;
+    outline: none;
+    color: white;
+<<<<<<< HEAD
+<<<<<<< HEAD
+    background-color:crimson;
+    transition: all o.3s;
+}
+.joinBtn:hover{
+ 
+    background-color:rgb(182, 12, 46);
+}
+
+@media screen and ( max-width:1020px) {
+    .joinContainer{
+        width:100%;
+    }
+    .joinContainer h1{
+        font-size:7vmax;
+    }
+    #joinInput{
+=======
+    background-color: crimson;
+    border-radius: 50px;
+=======
+    border-radius: 50px;
+    background-color: crimson;
+>>>>>>> master
+}
+
+.joinBtn:hover {
+
+    background-color: rgb(182, 12, 46);
+}
+
+@media screen and (max-width:1020px) {
+    .joinContainer {
+        width: 100%;
+    }
+
+    .joinContainer h1 {
+        font-size: 7vmax;
+    }
+
+    #joinInput {
+<<<<<<< HEAD
+>>>>>>> master
+        width: 30vmax;
+        padding: 2vmax;
+        font-size: 2vmax;
+        margin: 15px;
+    }
+<<<<<<< HEAD
+    .LoginBtn{
+=======
+
+    .LoginBtn {
+>>>>>>> master
+        width: 34vmax;
+        padding: 2vmax;
+        font-size: 2vmax;
+=======
+        border-radius: 50px;
+    }
+    .joinBtn:hover {
+        background-color: rgb(182, 12, 46);
+>>>>>>> master
+    }
+}
