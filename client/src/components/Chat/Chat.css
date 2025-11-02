@@ -51,15 +51,7 @@
     border: none;
     cursor:pointer;
     transition:all  0.3s;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
     font-size: 25px;
->>>>>>> master
-=======
-    font-size: 25px;
-
->>>>>>> master
 }
 .sendBtn:hover{
     background-color:rgb(150, 12, 39);

@@ -69,15 +69,7 @@ const Chat = () => {
         <div className="chatPage">
             <div className="chatContainer">
                 <div className="header">
-<<<<<<< HEAD
-<<<<<<< HEAD
-                    <h2>C CHAT</h2>
-=======
                     <h2>CHAT ROOM</h2>
->>>>>>> master
-=======
-                    <h2>CHAT ROOM</h2>
->>>>>>> master
                     <a href="/"> <img src={closeIcon} alt="Close" /></a>
                 </div>
                 <ReactScrollToBottom className="chatBox">
