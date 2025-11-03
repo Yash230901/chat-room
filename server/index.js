@@ -13,6 +13,9 @@ app.use(cors());
 const server = http.createServer(app);
 
 const io = socketio(server);
+app.get("/", (req, res) => {
+    res.send("hello from backend");
+})
 
 io.on('connection', (socket) => {
     console.log("New connection");
