@@ -10,7 +10,7 @@ let socket;
 
 // const ENDPOINT = "https://demo-cchat.herokuapp.com/";
 // const ENDPOINT = "http://localhost:5000/";
-const ENDPOINT = "https://chat-room-backend-pied.vercel.app/";
+const ENDPOINT = "https://chat-room-vqht.onrender.com/";
 
 const Chat = () => {
     const [id, setid] = useState("");
