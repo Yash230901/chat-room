@@ -23,7 +23,7 @@
 }
 .header img{
     cursor:pointer;
-    width: 70px;
+    width: 75px;
 }
 .chatBox{
     height:70%;
@@ -68,10 +68,10 @@
     }  
     .header h2{
         font-size:4vw;
-        margin: 3vw;
+        margin: 2vw;
     }
     .header img{
-        width: 60px;
+        width: 70px;
     }
     .chatBox{
         height:80%;
